@@ -5,5 +5,5 @@ categories: [Observations, Misc]
 tags: [colors,cities,pantone]     # TAG names should always be lowercase
 ---
 
-![Desktop View](/assets/img/fleating-pantone/favicon-96x96.png)
+![Desktop View](/assets/img/fleating-pantone/01.jpg)
 _Test_
