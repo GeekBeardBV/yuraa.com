@@ -206,6 +206,17 @@ compress_html:
   ignore:
     envs: [development]
 
+# # Jekyll Picture Tag Configuration
+# picture:
+#   source: "assets/img"
+#   output: "generated"
+#   suppress_warnings: false
+#   formats: [webp, original]
+#   widths: [400, 600, 800, 1000]
+#   dimension_attributes: true
+#   fast_build: development
+#   nomarkdown: false
+
 exclude:
   - "*.gem"
   - "*.gemspec"
