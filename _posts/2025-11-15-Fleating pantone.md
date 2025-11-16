@@ -9,11 +9,11 @@ When you walk the streets of big cities (especially in EU) you see a lot of buil
 
 Time passes, days fly by, years run through... And the elements do their job - they destroy the paint, the color fades, cracks appear, etc.
 
-Actually there is also one more "element" = people. Graphities, tagging and other types of personal expression that ends up on walls for all of us to admire.
+Actually there is also one more "element" = people. Graffiti, tagging and other types of personal expression that ends up on walls for all of us to admire.
 
-Maintenance crews try to freeze the time, by maintaining the overall looks of these objects, by patching out the areas which were damanged.
+Maintenance crews try to freeze the time, by maintaining the overall looks of these objects, by patching out the areas which were damaged.
 
-But here is a noticable challenge: **They never get the color right**
+But here is a noticeable challenge: **They never get the color right**
 ![Desktop View](/assets/img/fleating-pantone/fp0-01.jpg){: width=60%}
 
 Sure, original color faded at the very least. If you were to use the same exact paint, it wouldn't match. But In most cases you could see that the difference is a little too drastic.
